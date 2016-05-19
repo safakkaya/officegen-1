@@ -36,7 +36,7 @@
     "examples": "examples"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
     "start": "lib/index.js"
   },
   "dependencies": {
