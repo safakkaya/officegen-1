@@ -37,6 +37,7 @@
   },
   "scripts": {
     "test": "mocha"
+    "start": "lib/index.js"
   },
   "dependencies": {
     "archiver": "~0.4.10",
